@@ -3,6 +3,8 @@
 
 [<img align="center" alt="Manuel Pariente | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 [<img align="center" alt="Manuel Pariente | Twitter" height="40px" src="https://user-images.githubusercontent.com/18496796/107147301-8e8dfb80-694d-11eb-9fc6-f935c1754cd9.png"/>][twitter]
+[<img align="center" alt="Manuel Pariente | Twitter" height="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Feducation.usm.my%2Fimages%2FGoogle-Scholar-logo.png&f=1&nofb=1"/>][scholar]
+
 
 </div>
 
@@ -52,3 +54,4 @@ I'm a PhD student 🎓 in INRIA Nancy, France :fr: and soon-to-be entrepreneur! 
 
 [linkedin]: https://www.linkedin.com/in/manuel-pariente-2211539b/
 [twitter]: https://twitter.com/mnlpariente
+[scholar]: https://scholar.google.fr/citations?user=V1TsIH4AAAAJ&hl=en
