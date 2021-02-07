@@ -2,7 +2,7 @@
 <h2>Hey 👋, I'm Manuel Pariente</h2>
 
 [<img align="center" alt="Manuel Pariente | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="center" alt="Manuel Pariente | LinkedIn" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/1322/1322042.svg?token=exp=1612700172~hmac=8cc4a5991cf06d886cfd08dbd7e75dc9"/>][twitter]
+[<img align="center" alt="Manuel Pariente | Twitter" height="30px" src="https://4vector.com/i/free-vector-twitter-icon-vector-handdrawn-pencil_018993_256/icon_4.png"/>][twitter]
 
 </div>
 
@@ -10,10 +10,8 @@
 
 I'm a PhD student 🎓 in INRIA Nancy, France :fr: and soon-to-be entrepreneur! :bulb:
 
-I am the creator and maintainer of [Asteroid](https://github.com/asteroid-team/asteroid) :fire: The PyTorch-based audio source separation toolkit for researchers :fire:
-
 - :hammer_and_pick: Python / Cython / Bash / Git / LaTeX / Markdown :hammer_and_pick:
-- :package: Building [asteroid](https://github.com/asteroid-team/asteroid-filterbanks), [asteroid-filterbanks](https://github.com/asteroid-team/asteroid-filterbanks), [pystoi](https://github.com/mpariente/pystoi), [torch_stoi](https://github.com/asteroid-team/pytorch_stoi), [torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) and more :package:
+- :package: Building :fire: [Asteroid](https://github.com/asteroid-team/asteroid) :fire:, [asteroid-filterbanks](https://github.com/asteroid-team/asteroid-filterbanks), [pystoi](https://github.com/mpariente/pystoi), [torch_stoi](https://github.com/asteroid-team/pytorch_stoi), [torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) and more :package:
 - :pencil2: Linux & Bash & PyCharm & VSCode & TiddlyWiki & Notion :pencil2:
 - :dart: Efficiency at work :dart:
 
