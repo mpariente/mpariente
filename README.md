@@ -2,7 +2,7 @@
 <h2>Hey 👋, I'm Manuel Pariente</h2>
 
 [<img align="center" alt="Manuel Pariente | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="center" alt="Manuel Pariente | Twitter" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/1322/1322042.svg?token=exp=1612700172~hmac=8cc4a5991cf06d886cfd08dbd7e75dc9"/>][twitter]
+[<img align="center" alt="Manuel Pariente | Twitter" height="30px" src="https://user-images.githubusercontent.com/18496796/107147301-8e8dfb80-694d-11eb-9fc6-f935c1754cd9.png"/>][twitter]
 
 </div>
 
