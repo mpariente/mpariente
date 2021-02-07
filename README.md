@@ -1,8 +1,8 @@
 <div align="center">
 <h2>Hey 👋, I'm Manuel Pariente</h2>
 
-[<img align="center" alt="Manuel Pariente | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="center" alt="Manuel Pariente | Twitter" height="30px" src="https://user-images.githubusercontent.com/18496796/107147301-8e8dfb80-694d-11eb-9fc6-f935c1754cd9.png"/>][twitter]
+[<img align="center" alt="Manuel Pariente | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="center" alt="Manuel Pariente | Twitter" height="40px" src="https://user-images.githubusercontent.com/18496796/107147301-8e8dfb80-694d-11eb-9fc6-f935c1754cd9.png"/>][twitter]
 
 </div>
 
@@ -31,12 +31,19 @@ I'm a PhD student 🎓 in INRIA Nancy, France :fr: and soon-to-be entrepreneur! 
 ![Github Badge](https://img.shields.io/badge/-@popcornell-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/popcornell)
 ![Github Badge](https://img.shields.io/badge/-@jonashaag-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/jonashaag)
 ![Github Badge](https://img.shields.io/badge/-@JorisCos-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/JorisCos)
+![Github Badge](https://img.shields.io/badge/-@julienc-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/julienc)
 ![Github Badge](https://img.shields.io/badge/-@mhucoder-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/mhucoder)
 ![Github Badge](https://img.shields.io/badge/-@michelolzam-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/michelolzam)
 ![Github Badge](https://img.shields.io/badge/-@faroit-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/faroit)
 ![Github Badge](https://img.shields.io/badge/-@ssivasankaran-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/ssivasankaran)
 ![Github Badge](https://img.shields.io/badge/-@iver56-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/iver56)
 ![Github Badge](https://img.shields.io/badge/-@sw005320-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/sw005320)
+![Github Badge](https://img.shields.io/badge/-@huggingface-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/huggingface)
+![Github Badge](https://img.shields.io/badge/-@spatialaudiotools-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/spatialaudiotools)
+![Github Badge](https://img.shields.io/badge/-@ircamien-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/ircamien)
+ 
+
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mpariente&count_private=true&theme=great-gatsby&show_icons=true)
 
