@@ -1,11 +1,11 @@
 <div align="center">
-**Hey 👋, I'm Manuel Pariente**
+<h2>Hey 👋, I'm Manuel Pariente</h2>
 
 [<img align="center" alt="Manuel Pariente | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 [<img align="center" alt="Manuel Pariente | LinkedIn" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/1322/1322042.svg?token=exp=1612700172~hmac=8cc4a5991cf06d886cfd08dbd7e75dc9"/>][twitter]
 
 </div>
-<br />
+
 ----
 
 I'm a PhD student 🎓 in INRIA Nancy, France :fr: and soon-to-be entrepreneur! :bulb:
@@ -28,7 +28,7 @@ I am the creator and maintainer of [Asteroid](https://github.com/asteroid-team/a
 
 ----
 <div align="center">
-**Colabs**
+<strong>Colabs</strong>
 
 ![Github Badge](https://img.shields.io/badge/-@popcornell-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/popcornell)
 ![Github Badge](https://img.shields.io/badge/-@jonashaag-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/jonashaag)
@@ -39,7 +39,6 @@ I am the creator and maintainer of [Asteroid](https://github.com/asteroid-team/a
 ![Github Badge](https://img.shields.io/badge/-@ssivasankaran-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/ssivasankaran)
 ![Github Badge](https://img.shields.io/badge/-@iver56-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/iver56)
 ![Github Badge](https://img.shields.io/badge/-@sw005320-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/sw005320)
-![Github Badge](https://img.shields.io/badge/-@michelolazm-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/michelolazm)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mpariente&count_private=true&theme=great-gatsby&show_icons=true)
 
