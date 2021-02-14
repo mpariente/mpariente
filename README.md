@@ -23,7 +23,7 @@ I'm a PhD student 🎓 in INRIA Nancy, France :fr: and soon-to-be entrepreneur! 
 <code><img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/180px-Keras_logo.svg.png"></code>
 <code><img height="30px" src="https://numpy.org/images/logos/numpy.svg"></code>
 <code><img height="30px" src="https://raw.githubusercontent.com/pandas-dev/pandas/master/web/pandas/static/img/pandas_mark.svg"></code>
-<code><img height="30px" src="https://raw.githubusercontent.com/PyTorchLightning/pytorch-lightning/master/docs/source/_images/logos/lightning_icon.svg"></code>
+<code><img height="30px" src="https://raw.githubusercontent.com/PyTorchLightning/pytorch-lightning/master/docs/source/_static/images/icon.svg"></code>
 <code><img height="30px" src="https://raw.githubusercontent.com/asteroid-team/asteroid-team.github.io/master/logos/asteroid_phones_dark.svg"></code>
 
 ----
