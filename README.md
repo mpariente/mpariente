@@ -10,7 +10,7 @@
 
 ----
 
-I'm a PhD student 🎓 in INRIA Nancy, France :fr: and soon-to-be entrepreneur! :bulb:
+I'm the co-founder of Pulse Audition, we're bringing back intelligibility in noise to the people who need it ! 👂 :bulb:
 
 - :hammer_and_pick: Python / Cython / Bash / Git / LaTeX / Markdown :hammer_and_pick:
 - :package: Building :fire: [asteroid](https://github.com/asteroid-team/asteroid) :fire:, [asteroid-filterbanks](https://github.com/asteroid-team/asteroid-filterbanks), [pystoi](https://github.com/mpariente/pystoi), [torch_stoi](https://github.com/asteroid-team/pytorch_stoi), [torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) and more :package:
